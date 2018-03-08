@@ -27,5 +27,8 @@ export default {
         .fade-in-enter, .fade-in-leave-to {
             opacity: 0
         }
+        img {
+          content: normal !important;
+        }
     }
 </style>

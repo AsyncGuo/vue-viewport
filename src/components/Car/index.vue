@@ -19,7 +19,6 @@ export default {
 
 <style lang="less" scoped>
   p{
-    width: 200px;
-    height: 10px;
+    border: .5px solid black; border-bottom-width: 4px; font-size: 14px; line-height: 20px; position: relative;
   }
 </style>
